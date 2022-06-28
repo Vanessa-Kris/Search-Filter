@@ -1,8 +1,12 @@
 .container {
-    width: 50%;
+  margin-top: 70px;
+    width: 40%;
     padding: 20px;
+    background-color: rgb(1, 106, 124);
     
 }
+
+
 
 #myInput {
     background-image: url('/css/searchicon.png'); /* Add a search icon to input */
